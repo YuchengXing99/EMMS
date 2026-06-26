@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Generated outputs
+results/
+*.pth
+
+# Large RNA data (push separately later)
+data/data_csvs/
+
+# Paper / PDFs (do not publish)
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
