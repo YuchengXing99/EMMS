@@ -8,9 +8,6 @@ __pycache__/
 results/
 *.pth
 
-# Large RNA data (push separately later)
-data/data_csvs/
-
 # Paper / PDFs (do not publish)
 *.pdf
 
