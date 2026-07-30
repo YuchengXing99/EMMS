@@ -5,8 +5,8 @@ NO VALIDATION SET VERSION (Patient-Level)
 All parameters are read from configs/default_config.py
 
 Usage:
-    python scripts/run.py --cancer_type BLCA
-    python scripts/run.py  # Run all 6 cancer types
+    python scripts/run.py --cancer_type KIRC
+    python scripts/run.py  # Run all 4 cancer types
 """
 import os
 # Force single thread for reproducibility
