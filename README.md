@@ -137,9 +137,11 @@ features are CC-BY-NC-ND 4.0, for non-commercial academic use.
 
 ## Cite
 
-    @inproceedings{xing2026evidential,
-      title={Evidential Fusion Network for Multimodal Survival Prediction under Missing Modalities},
-      author={Xing, Yucheng and Mo, Hailan and Wang, Zi and Huang, Ling and Feng, Mengling},
-      booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-      year={2026}
-    }
+```bibtex
+@inproceedings{xing2026emms,
+  title={Evidential Fusion Network for Multimodal Survival Prediction Under Missing Modalities},
+  author={Xing, Yucheng and Mo, Hailan and Wang, Zi and Huang, Ling and Feng, Mengling},
+  booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+  year={2026}
+}
+```
